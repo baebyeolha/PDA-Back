@@ -40,7 +40,8 @@
      - boolean isLogin(User user) : 해당 user 로그인했으면 true 반환, 아니면 false 반환
 
 
-![img.png](img.png)
+![image](https://github.com/baebyeolha/PDA-Back/assets/114577429/7b2e6513-710b-4aee-8139-e06b584b5175)
+
 
 #### 출력 결과
 ```
